@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TobiasPol
 - 🌱 I’m currently learning Business Informatics
-- 🌱 I’m currently working at Bayer AG
+- 🌱 I’m working at Bayer AG
 - 📫 How to reach me tobias.polley@gmx.de
 
 <!---
