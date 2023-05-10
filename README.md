@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TobiasPol
 - 🌱 I’m currently studying Dual Business Informatics @Bayer AG
-- 📫 How to reach me tobias.polley@gmx.de
+- 📫 How to reach me tobias.polley@posteo.de
 
 <!---
 TobiasPol/TobiasPol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
