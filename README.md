@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TobiasPol
-- 🌱 I’m currently studying Dual Business Informatics @Bayer AG
+- 🌱 I’m currently working as a Data Scientist
 - 📫 How to reach me tobias.polley@posteo.de
 
 <!---
